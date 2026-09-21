@@ -1,0 +1,319 @@
+id_avis,date,source,produit,texte,texte_clean,texte_final,sentiment,note,langue
+AV0001,2026-02-27,mobile,Ordinateur NovaBook,"très bonne expérience, simple et efficace.","Très bonne expérience, simple et efficace.",très bon expérience simple efficace,positif,4,fr
+AV0002,2026-01-09,web,SmartPhone X,très satisfait de mon achat 👍 avis,Très satisfait de mon achat 👍 avis,très satisfait achat 👍 avis,positif,4,fr
+AV0003,2026-07-03,réseaux_sociaux,Écouteurs AirSound,"produit parfait, rien à signaler.","Produit parfait, rien à signaler.",produit parfait rien signaler,positif,4,fr
+AV0004,2026-06-28,sav,SmartWatch Pro,"produit excellent, je suis très satisfait. !","Produit excellent, je suis très satisfait. !",produit excellent très satisfait !,positif,5,fr
+AV0005,2026-01-24,sav,SmartPhone X,la batterie tient vraiment bien et l'écran est superbe.,LA BATTERIE TIENT VRAIMENT BIEN ET L'ÉCRAN EST SUPERBE.,batterie tenir vraiment bien écran superbe,positif,5,fr
+AV0006,2026-07-26,web,Ordinateur NovaBook,très satisfait de mon achat 👍 😊,Très satisfait de mon achat 👍 😊,très satisfait achat 👍 😊,positif,5,fr
+AV0007,2026-05-22,email,Ordinateur NovaBook,service client réactif et commande reçue rapidement.,SERVICE CLIENT RÉACTIF ET COMMANDE REÇUE RAPIDEMENT.,service client réactif commande reçu rapidement,positif,4,fr
+AV0008,2026-06-30,web,SmartPhone X,très satisfait de mon achat 👍,Très satisfait de mon achat 👍,très satisfait achat 👍,positif,5,fr
+AV0009,2026-08-10,web,Écouteurs AirSound,le produit correspond globalement à la description.,Le produit correspond globalement à la description.,produit correspondre globalement description,neutre,3,fr
+AV0010,2026-04-01,mobile,Ordinateur NovaBook,livraison rapide et produit conforme à mes attentes.,Livraison rapide et produit conforme à mes attentes.,livraison rapide produit conforme attente,positif,5,fr
+AV0011,2026-05-17,mobile,SmartPhone Y,très satisfait de mon achat 👍 !,Très satisfait de mon achat 👍 !,très satisfait achat 👍 !,positif,4,fr
+AV0013,2026-03-10,web,SmartPhone Y,la batterie tient vraiment bien et l'écran est superbe. avis,La batterie tient vraiment bien et l'écran est superbe. avis,batterie tenir vraiment bien écran superbe avis,positif,4,fr
+AV0014,2026-06-17,sav,Écouteurs AirSound,"mauvaise expérience, je ne recommande pas.","Mauvaise expérience, je ne recommande pas.",mauvais expérience ne recommander pas,negatif,2,fr
+AV0015,2026-03-09,mobile,SmartPhone Y,qualité décevante pour ce prix. !,Qualité décevante pour ce prix. !,qualité décevant prix !,negatif,2,fr
+AV0016,2026-08-18,réseaux_sociaux,Écouteurs AirSound,produit correct pour son prix. avis,Produit correct pour son prix. avis,produit correct prix avis,neutre,4,fr
+AV0017,2026-01-24,web,SmartPhone X,"produit parfait, rien à signaler.","Produit parfait, rien à signaler.",produit parfait rien signaler,positif,5,fr
+AV0019,2026-08-09,web,Ordinateur NovaBook,le produit ne fonctionne déjà plus.,Le produit ne fonctionne déjà plus.,produit ne fonctionner déjà plus,negatif,2,fr
+AV0020,2026-07-16,email,SmartPhone X,"je viens de recevoir le produit, à voir dans le temps. 😊","Je viens de recevoir le produit, à voir dans le temps. 😊",venir recevoir produit voir temps 😊,neutre,4,fr
+AV0021,2026-07-04,email,Tablette TabPlus,excellent rapport qualité-prix.,Excellent rapport qualité-prix.,excellent rapport qualité-prix,positif,5,fr
+AV0022,2026-08-04,réseaux_sociaux,Tablette TabPlus,le produit correspond globalement à la description. 😊,Le produit correspond globalement à la description. 😊,produit correspondre globalement description 😊,neutre,4,fr
+AV0023,2026-07-19,réseaux_sociaux,SmartPhone X,livraison rapide et produit conforme à mes attentes.,Livraison rapide et produit conforme à mes attentes.,livraison rapide produit conforme attente,positif,5,fr
+AV0024,2026-08-26,email,SmartWatch Pro,"produit excellent, je suis très satisfait.","PRODUIT EXCELLENT, JE SUIS TRÈS SATISFAIT.",produit excellent très satisfait,positif,5,fr
+AV0025,2026-01-22,sav,SmartPhone X,très satisfait de mon achat 👍,TRÈS SATISFAIT DE MON ACHAT 👍,très satisfait achat 👍,positif,5,fr
+AV0026,2026-06-18,sav,Tablette TabPlus,"produit reçu endommagé, je suis mécontent. !","Produit reçu endommagé, je suis mécontent. !",produit recevoir endommagé mécontent !,negatif,2,fr
+AV0027,2026-07-13,mobile,Ordinateur NovaBook,"je recommande vivement, tout fonctionne parfaitement.","Je recommande vivement, tout fonctionne parfaitement.",recommander vivement tout fonctionner parfaitement,positif,5,fr
+AV0029,2026-02-28,réseaux_sociaux,SmartPhone Y,"produit excellent, je suis trèèès satisfait.","Produit excellent, je suis trèèès satisfait.",produit excellent trèèès satisfait,positif,5,fr
+AV0030,2026-08-20,web,SmartWatch Pro,"je recommande vivement, tout fonctionne parfaitement.","JE RECOMMANDE VIVEMENT, TOUT FONCTIONNE PARFAITEMENT.",recommander vivement tout fonctionner parfaitement,positif,4,fr
+AV0031,2026-02-24,réseaux_sociaux,SmartPhone Y,"très bonne expérience, simple et efficace.","Très bonne expérience, simple et efficace.",très bon expérience simple efficace,positif,5,fr
+AV0032,2026-03-04,sav,Écouteurs AirSound,"je viens de recevoir le produit, à voir dans le temps.","Je viens de recevoir le produit, à voir dans le temps.",venir recevoir produit voir temps,neutre,4,fr
+AV0033,2026-04-19,sav,Écouteurs AirSound,service client réactif et commande reçue rapidement.,Service client réactif et commande reçue rapidement.,service client réactif commande reçu rapidement,positif,4,fr
+AV0034,2026-04-14,email,SmartPhone X,la batterie se décharge beaucoup trop vite.,La batterie se décharge beaucoup trop vite.,batterie décharge beaucoup trop vite,negatif,1,fr
+AV0035,2026-02-05,sav,SmartPhone Y,"produit parfait, rien à signaler.","Produit parfait, rien à signaler.",produit parfait rien signaler,positif,5,fr
+AV0036,2026-07-26,réseaux_sociaux,SmartPhone X,"très bon produit, la qualité est au rendez-vous.","Très bon produit, la qualité est au rendez-vous.",très bon produit qualité rendez-vous,positif,5,fr
+AV0037,2026-02-12,sav,Écouteurs AirSound,"très bon produit, la qualité est au rendez-vous.","Très bon produit, la qualité est au rendez-vous.",très bon produit qualité rendez-vous,positif,4,fr
+AV0039,2026-06-28,réseaux_sociaux,Ordinateur NovaBook,"très bonne expérience, simple et efficace. avis","Très bonne expérience, simple et efficace. avis",très bon expérience simple efficace avis,positif,5,fr
+AV0040,2026-02-25,web,Tablette TabPlus,la livraison s'est déroulée normalement. 😊,La livraison s'est déroulée normalement. 😊,livraison dérouler normalement 😊,neutre,3,fr
+AV0041,2026-01-15,web,Tablette TabPlus,la qualité est correcte sans être exceptionnelle.,La qualité est correcte sans être exceptionnelle.,qualité correct sans exceptionnel,neutre,3,fr
+AV0045,2026-03-03,email,Écouteurs AirSound,"je recommande vivement, tout fonctionne parfaitement.","Je recommande vivement, tout fonctionne parfaitement.",recommander vivement tout fonctionner parfaitement,positif,5,fr
+AV0046,2026-08-26,web,SmartPhone X,excellent rapport qualité-prix.,Excellent rapport qualité-prix.,excellent rapport qualité-prix,positif,5,fr
+AV0049,2026-01-03,réseaux_sociaux,SmartWatch Pro,très satisfait de mon achat 👍,Très satisfait de mon achat 👍,très satisfait achat 👍,positif,5,fr
+AV0050,2026-01-30,web,Ordinateur NovaBook,"produit reçu endommagé, je suis mécontent. 😊","Produit reçu endommagé, je suis mécontent. 😊",produit recevoir endommagé mécontent 😊,negatif,1,fr
+AV0052,2026-03-06,web,SmartPhone X,"je viens de recevoir le produit, à voir dans le temps.","Je viens de recevoir le produit, à voir dans le temps.",venir recevoir produit voir temps,neutre,3,fr
+AV0053,2026-03-27,mobile,Ordinateur NovaBook,"produit excellent, je suis très satisfait.","Produit excellent, je suis très satisfait.",produit excellent très satisfait,positif,5,fr
+AV0054,2026-06-30,sav,Tablette TabPlus,qualité décevante pour ce prix.,Qualité décevante pour ce prix.,qualité décevant prix,negatif,1,fr
+AV0057,2026-04-01,réseaux_sociaux,Écouteurs AirSound,la livraison a été très longue.,LA LIVRAISON A ÉTÉ TRÈS LONGUE.,livraison très long,negatif,1,fr
+AV0058,2026-08-10,mobile,SmartPhone Y,"produit reçu endommagé, je suis mécontent.","Produit reçu endommagé, je suis mécontent.",produit recevoir endommagé mécontent,negatif,2,fr
+AV0059,2026-07-20,sav,Ordinateur NovaBook,"produit reçu endommagé, je suis mécontent.","Produit reçu endommagé, je suis mécontent.",produit recevoir endommagé mécontent,negatif,1,fr
+AV0060,2026-07-21,web,Écouteurs AirSound,le produit ne fonctionne déjà plus. !,Le produit ne fonctionne déjà plus. !,produit ne fonctionner déjà plus !,negatif,1,fr
+AV0061,2026-07-29,sav,SmartWatch Pro,la livraison a été très longue.,La livraison a été très longue.,livraison très long,negatif,2,fr
+AV0063,2026-06-14,réseaux_sociaux,Écouteurs AirSound,"très bonne expérience, simple et efficace.","Très bonne expérience, simple et efficace.",très bon expérience simple efficace,positif,4,fr
+AV0064,2026-01-30,email,SmartPhone Y,produit correct pour son prix.,Produit correct pour son prix.,produit correct prix,neutre,4,fr
+AV0066,2026-01-30,sav,Tablette TabPlus,l'utilisation est assez simple.,L'utilisation est assez simple.,utilisation assez simple,neutre,3,fr
+AV0067,2026-05-14,réseaux_sociaux,Ordinateur NovaBook,service client réactif et commande reçue rapidement.,Service client réactif et commande reçue rapidement.,service client réactif commande reçu rapidement,positif,4,fr
+AV0068,2026-04-04,sav,SmartPhone X,la qualité est correcte sans être exceptionnelle.,La qualité est correcte sans être exceptionnelle.,qualité correct sans exceptionnel,neutre,4,fr
+AV0069,2026-07-04,email,Tablette TabPlus,"mauvaise expérience, je ne recommande pas.","MAUVAISE EXPÉRIENCE, JE NE RECOMMANDE PAS.",mauvais expérience ne recommander pas,negatif,2,fr
+AV0071,2026-06-07,réseaux_sociaux,SmartWatch Pro,service client réactif et commande reçue rapidement. !,Service client réactif et commande reçue rapidement. !,service client réactif commande reçu rapidement !,positif,5,fr
+AV0072,2026-02-23,sav,Tablette TabPlus,"très bonne expérience, simple et efficace. 😊","Très bonne expérience, simple et efficace. 😊",très bon expérience simple efficace 😊,positif,4,fr
+AV0073,2026-04-24,mobile,Tablette TabPlus,excellent rapport qualité-prix.,Excellent rapport qualité-prix.,excellent rapport qualité-prix,positif,5,fr
+AV0074,2026-05-12,réseaux_sociaux,SmartWatch Pro,"très bon produit, la qualité est au rendez-vous. 😊","Très bon produit, la qualité est au rendez-vous. 😊",très bon produit qualité rendez-vous 😊,positif,5,fr
+AV0076,2026-04-27,sav,Ordinateur NovaBook,excellent rapport qualité-prix.,EXCELLENT RAPPORT QUALITÉ-PRIX.,excellent rapport qualité-prix,positif,5,fr
+AV0077,2026-03-04,mobile,Ordinateur NovaBook,excellent rapport qualité-prix. avis,Excellent rapport qualité-prix. avis,excellent rapport qualité-prix avis,positif,5,fr
+AV0078,2026-02-15,réseaux_sociaux,Écouteurs AirSound,l'utilisation est assez simple.,L'utilisation est assez simple.,utilisation assez simple,neutre,3,fr
+AV0079,2026-02-04,sav,Ordinateur NovaBook,"très bon produit, la qualité est au rendez-vous.","Très bon produit, la qualité est au rendez-vous.",très bon produit qualité rendez-vous,positif,5,fr
+AV0081,2026-03-08,mobile,Ordinateur NovaBook,qualité décevante pour ce prix.,Qualité décevante pour ce prix.,qualité décevant prix,negatif,2,fr
+AV0082,2026-04-23,web,Ordinateur NovaBook,"je recommande vivement, tout fonctionne parfaitement. 😊","Je recommande vivement, tout fonctionne parfaitement. 😊",recommander vivement tout fonctionner parfaitement 😊,positif,5,fr
+AV0083,2026-08-17,réseaux_sociaux,SmartPhone X,la batterie tient vraiment bien et l'écran est superbe.,La batterie tient vraiment bien et l'écran est superbe.,batterie tenir vraiment bien écran superbe,positif,5,fr
+AV0085,2026-04-17,web,SmartPhone Y,"produit parfait, rien à signaler.","Produit parfait, rien à signaler.",produit parfait rien signaler,positif,5,fr
+AV0086,2026-08-08,réseaux_sociaux,Écouteurs AirSound,"je viens de recevoir le produit, à voir dans le temps.","Je viens de recevoir le produit, à voir dans le temps.",venir recevoir produit voir temps,neutre,3,fr
+AV0088,2026-05-05,mobile,SmartWatch Pro,"je viens de recevoir le produit, à voir dans le temps.","Je viens de recevoir le produit, à voir dans le temps.",venir recevoir produit voir temps,neutre,4,fr
+AV0091,2026-02-04,sav,SmartPhone Y,"très bon produit, la qualité est au rendez-vous. avis","Très bon produit, la qualité est au rendez-vous. avis",très bon produit qualité rendez-vous avis,positif,4,fr
+AV0092,2026-04-27,email,SmartWatch Pro,la batterie tient vraiment bien et l'écran est superbe.,La batterie tient vraiment bien et l'écran est superbe.,batterie tenir vraiment bien écran superbe,positif,5,fr
+AV0095,2026-08-03,web,Tablette TabPlus,"je recommande vivement, tout fonctionne parfaitement.","Je recommande vivement, tout fonctionne parfaitement.",recommander vivement tout fonctionner parfaitement,positif,4,fr
+AV0097,2026-07-19,mobile,SmartWatch Pro,la livraison s'est déroulée normalement.,LA LIVRAISON S'EST DÉROULÉE NORMALEMENT.,livraison dérouler normalement,neutre,3,fr
+AV0100,2026-05-17,sav,Ordinateur NovaBook,le produit correspond globalement à la description.,Le produit correspond globalement à la description.,produit correspondre globalement description,neutre,4,fr
+AV0101,2026-07-30,sav,SmartPhone X,"produit excellent, je suis très satisfait. avis","Produit excellent, je suis très satisfait. avis",produit excellent très satisfait avis,positif,5,fr
+AV0102,2026-04-22,mobile,Ordinateur NovaBook,excellent rapport qualité-prix. !,Excellent rapport qualité-prix. !,excellent rapport qualité-prix !,positif,5,fr
+AV0105,2026-03-28,web,Écouteurs AirSound,qualité décevante pour ce prix. avis,Qualité décevante pour ce prix. avis,qualité décevant prix avis,negatif,1,fr
+AV0106,2026-04-01,email,SmartWatch Pro,qualité décevante pour ce prix.,Qualité décevante pour ce prix.,qualité décevant prix,negatif,1,fr
+AV0107,2026-05-13,mobile,SmartPhone X,"produit parfait, rien à signaler.","Produit parfait, rien à signaler.",produit parfait rien signaler,positif,5,fr
+AV0111,2026-03-11,email,SmartWatch Pro,la batterie tient vraiment bien et l'écran est superbe.,La batterie tient vraiment bien et l'écran est superbe.,batterie tenir vraiment bien écran superbe,positif,5,fr
+AV0113,2026-07-05,réseaux_sociaux,Tablette TabPlus,excellent rapport qualité-prix. 😊,Excellent rapport qualité-prix. 😊,excellent rapport qualité-prix 😊,positif,5,fr
+AV0115,2026-01-14,réseaux_sociaux,SmartWatch Pro,"très bonne expérience, simple et efficace.","Très bonne expérience, simple et efficace.",très bon expérience simple efficace,positif,5,fr
+AV0116,2026-01-27,web,Tablette TabPlus,la qualité est correcte sans être exceptionnelle.,La qualité est correcte sans être exceptionnelle.,qualité correct sans exceptionnel,neutre,3,fr
+AV0118,2026-04-13,sav,SmartPhone X,la batterie se décharge beaucoup trop vite.,LA BATTERIE SE DÉCHARGE BEAUCOUP TROP VITE.,batterie décharge beaucoup trop vite,negatif,2,fr
+AV0119,2026-07-27,réseaux_sociaux,SmartWatch Pro,livraison rapide et produit conforme à mes attentes. !,Livraison rapide et produit conforme à mes attentes. !,livraison rapide produit conforme attente !,positif,4,fr
+AV0120,2026-07-15,sav,Tablette TabPlus,"très bon produit, la qualité est au rendez-vous.","Très bon produit, la qualité est au rendez-vous.",très bon produit qualité rendez-vous,positif,5,fr
+AV0121,2026-04-26,sav,SmartWatch Pro,"produit parfait, rien à signaler. avis","Produit parfait, rien à signaler. avis",produit parfait rien signaler avis,positif,5,fr
+AV0123,2026-03-03,mobile,Tablette TabPlus,"très bon produit, la qualité est au rendez-vous. !","Très bon produit, la qualité est au rendez-vous. !",très bon produit qualité rendez-vous !,positif,5,fr
+AV0124,2026-06-26,réseaux_sociaux,Écouteurs AirSound,service client réactif et commande reçue rapidement.,Service client réactif et commande reçue rapidement.,service client réactif commande reçu rapidement,positif,4,fr
+AV0127,2026-01-19,web,SmartPhone Y,"très bonne expérience, simple et efficace. !","Très bonne expérience, simple et efficace. !",très bon expérience simple efficace !,positif,5,fr
+AV0128,2026-04-23,web,Écouteurs AirSound,la qualité est correcte sans être exceptionnelle. 😊,La qualité est correcte sans être exceptionnelle. 😊,qualité correct sans exceptionnel 😊,neutre,4,fr
+AV0129,2026-05-09,réseaux_sociaux,Écouteurs AirSound,l'utilisation est assez simple. 😊,L'utilisation est assez simple. 😊,utilisation assez simple 😊,neutre,4,fr
+AV0133,2026-04-15,email,SmartWatch Pro,l'utilisation est assez simple.,L'utilisation est assez simple.,utilisation assez simple,neutre,3,fr
+AV0137,2026-02-18,réseaux_sociaux,SmartWatch Pro,le service client n'a pas répondu à ma demande.,Le service client n'a pas répondu à ma demande.,service client pas répondre demande,negatif,2,fr
+AV0139,2026-02-01,web,Ordinateur NovaBook,excellent rapport qualité-prix.,Excellent rapport qualité-prix.,excellent rapport qualité-prix,positif,5,fr
+AV0140,2026-05-22,web,Tablette TabPlus,livraison rapide et produit conforme à mes attentes. 😊,Livraison rapide et produit conforme à mes attentes. 😊,livraison rapide produit conforme attente 😊,positif,5,fr
+AV0141,2026-01-31,mobile,Écouteurs AirSound,"très bon produit, la qualité est au rendez-vous.","Très bon produit, la qualité est au rendez-vous.",très bon produit qualité rendez-vous,positif,5,fr
+AV0142,2026-08-02,sav,Écouteurs AirSound,le produit ne fonctionne déjà plus. avis,Le produit ne fonctionne déjà plus. avis,produit ne fonctionner déjà plus avis,negatif,2,fr
+AV0143,2026-08-24,réseaux_sociaux,Tablette TabPlus,service client réactif et commande reçue rapidement.,Service client réactif et commande reçue rapidement.,service client réactif commande reçu rapidement,positif,5,fr
+AV0146,2026-05-18,sav,SmartWatch Pro,livraison rapide et produit conforme à mes attentes.,Livraison rapide et produit conforme à mes attentes.,livraison rapide produit conforme attente,positif,5,fr
+AV0148,2026-01-12,email,Ordinateur NovaBook,"je recommande vivement, tout fonctionne parfaitement. avis","Je recommande vivement, tout fonctionne parfaitement. avis",recommander vivement tout fonctionner parfaitement avis,positif,5,fr
+AV0150,2026-01-26,réseaux_sociaux,Écouteurs AirSound,"très bon produit, je recommande.","Très bon produit, je recommande.",très bon produit recommander,positif,5,fr
+AV0152,2026-08-07,réseaux_sociaux,Écouteurs AirSound,"très bon produit, la qualité est au rendez-vous.","Très bon produit, la qualité est au rendez-vous.",très bon produit qualité rendez-vous,positif,5,fr
+AV0155,2026-06-27,email,SmartPhone X,l'utilisation est assez simple. !,L'utilisation est assez simple. !,utilisation assez simple !,neutre,3,fr
+AV0160,2026-04-24,email,Tablette TabPlus,"produit reçu endommagé, je suis mécontent.","PRODUIT REÇU ENDOMMAGÉ, JE SUIS MÉCONTENT.",produit recevoir endommagé mécontent,negatif,2,fr
+AV0161,2026-08-05,email,SmartPhone Y,"très bonne expérience, simple et efficace.","Très bonne expérience, simple et efficace.",très bon expérience simple efficace,positif,5,fr
+AV0162,2026-04-08,réseaux_sociaux,SmartWatch Pro,la batterie se décharge beaucoup trop vite.,La batterie se décharge beaucoup trop vite.,batterie décharge beaucoup trop vite,negatif,2,fr
+AV0164,2026-08-02,email,SmartPhone Y,très déçu par ce produit.,Très déçu par ce produit.,très déçu produit,negatif,2,fr
+AV0166,2026-06-10,web,Ordinateur NovaBook,la qualité est correcte sans être exceptionnelle. !,La qualité est correcte sans être exceptionnelle. !,qualité correct sans exceptionnel !,neutre,4,fr
+AV0171,2026-08-05,réseaux_sociaux,SmartWatch Pro,la livraison a été très longue. avis,La livraison a été très longue. avis,livraison très long avis,negatif,1,fr
+AV0172,2026-05-18,web,Écouteurs AirSound,"produit excellent, je suis très satisfait. 😊","Produit excellent, je suis très satisfait. 😊",produit excellent très satisfait 😊,positif,5,fr
+AV0174,2026-03-25,réseaux_sociaux,SmartPhone Y,le produit correspond globalement à la description.,Le produit correspond globalement à la description.,produit correspondre globalement description,neutre,3,fr
+AV0176,2026-01-25,mobile,Tablette TabPlus,qualité décevante pour ce prix.,QUALITÉ DÉCEVANTE POUR CE PRIX.,qualité décevant prix,negatif,2,fr
+AV0177,2026-04-18,réseaux_sociaux,Ordinateur NovaBook,la batterie tient vraiment bien et l'écran est superbe.,La batterie tient vraiment bien et l'écran est superbe.,batterie tenir vraiment bien écran superbe,positif,5,fr
+AV0178,2026-08-02,sav,Tablette TabPlus,la qualité est correcte sans être exceptionnelle.,LA QUALITÉ EST CORRECTE SANS ÊTRE EXCEPTIONNELLE.,qualité correct sans exceptionnel,neutre,3,fr
+AV0179,2026-02-25,sav,Écouteurs AirSound,"produit excellent, je suis très satisfait.","Produit excellent, je suis très satisfait.",produit excellent très satisfait,positif,5,fr
+AV0180,2026-05-20,email,SmartPhone X,la batterie se décharge beaucoup trop vite.,La batterie se décharge beaucoup trop vite.,batterie décharge beaucoup trop vite,negatif,2,fr
+AV0181,2026-01-24,mobile,Ordinateur NovaBook,"très bon produit, la qualité est au rendez-vous.","Très bon produit, la qualité est au rendez-vous.",très bon produit qualité rendez-vous,positif,5,fr
+AV0186,2026-01-05,mobile,SmartWatch Pro,"je viens de recevoir le produit, à voir dans le temps.","Je viens de recevoir le produit, à voir dans le temps.",venir recevoir produit voir temps,neutre,3,fr
+AV0187,2026-07-10,web,Écouteurs AirSound,"produit parfait, rien à signaler.","PRODUIT PARFAIT, RIEN À SIGNALER.",produit parfait rien signaler,positif,5,fr
+AV0189,2026-06-14,web,SmartPhone X,le produit ne fonctionne déjà plus.,Le produit ne fonctionne déjà plus.,produit ne fonctionner déjà plus,negatif,1,fr
+AV0190,2026-05-06,sav,SmartPhone X,le service client n'a pas répondu à ma demande.,LE SERVICE CLIENT N'A PAS RÉPONDU À MA DEMANDE.,service client pas répondre demande,negatif,2,fr
+AV0200,2026-08-05,web,SmartWatch Pro,excellent rapport qualité-prix.,Excellent rapport qualité-prix.,excellent rapport qualité-prix,positif,5,fr
+AV0203,2026-03-11,email,SmartWatch Pro,le produit correspond globalement à la description. !,Le produit correspond globalement à la description. !,produit correspondre globalement description !,neutre,3,fr
+AV0204,2026-01-18,mobile,Ordinateur NovaBook,livraison rapide et produit conforme à mes attentes. avis,Livraison rapide et produit conforme à mes attentes. avis,livraison rapide produit conforme attente avis,positif,5,fr
+AV0206,2026-07-04,email,Tablette TabPlus,la batterie tient vraiment bien et l'écran est superbe. 😊,La batterie tient vraiment bien et l'écran est superbe. 😊,batterie tenir vraiment bien écran superbe 😊,positif,5,fr
+AV0208,2026-05-05,réseaux_sociaux,Écouteurs AirSound,l'utilisation est assez simple. avis,L'utilisation est assez simple. avis,utilisation assez simple avis,neutre,3,fr
+AV0210,2026-01-12,mobile,Écouteurs AirSound,"produit parfait, rien à signaler. 😊","Produit parfait, rien à signaler. 😊",produit parfait rien signaler 😊,positif,5,fr
+AV0211,2026-03-19,mobile,SmartPhone Y,très déçu par ce produit.,Très déçu par ce produit.,très déçu produit,negatif,1,fr
+AV0212,2026-01-02,sav,Ordinateur NovaBook,produit correct pour son prix.,PRODUIT CORRECT POUR SON PRIX.,produit correct prix,neutre,3,fr
+AV0219,2026-05-11,web,Tablette TabPlus,livraison rapide et produit conforme à mes attentes.,LIVRAISON RAPIDE ET PRODUIT CONFORME À MES ATTENTES.,livraison rapide produit conforme attente,positif,5,fr
+AV0220,2026-03-02,web,SmartPhone Y,la batterie tient vraiment bien et l'écran est superbe. !,La batterie tient vraiment bien et l'écran est superbe. !,batterie tenir vraiment bien écran superbe !,positif,5,fr
+AV0222,2026-07-13,réseaux_sociaux,Tablette TabPlus,qualité décevante pour ce prix.,Qualité décevante pour ce prix.,qualité décevant prix,negatif,2,fr
+AV0225,2026-04-05,email,SmartPhone X,ok,OK,ok,positif,5,fr
+AV0229,2026-07-01,sav,Écouteurs AirSound,"produit excellent, je suis très satisfait.","Produit excellent, je suis très satisfait.",produit excellent très satisfait,positif,5,fr
+AV0235,2026-01-24,sav,Tablette TabPlus,la qualité est correcte sans être exceptionnelle.,La qualité est correcte sans être exceptionnelle.,qualité correct sans exceptionnel,neutre,4,fr
+AV0242,2026-04-29,email,Écouteurs AirSound,"mauvaise expérience, je ne recommande pas.","Mauvaise expérience, je ne recommande pas.",mauvais expérience ne recommander pas,negatif,1,fr
+AV0243,2026-07-25,réseaux_sociaux,SmartPhone Y,livraison rapide et produit conforme à mes attentes.,Livraison rapide et produit conforme à mes attentes.,livraison rapide produit conforme attente,positif,5,fr
+AV0244,2026-05-22,web,Ordinateur NovaBook,qualité décevante pour ce prix.,Qualité décevante pour ce prix.,qualité décevant prix,negatif,1,fr
+AV0249,2026-02-05,web,SmartWatch Pro,produit correct pour son prix. !,Produit correct pour son prix. !,produit correct prix !,neutre,4,fr
+AV0250,2026-04-25,réseaux_sociaux,SmartPhone X,"produit reçu endommagé, je suis mécontent.","Produit reçu endommagé, je suis mécontent.",produit recevoir endommagé mécontent,negatif,2,fr
+AV0251,2026-08-02,mobile,Tablette TabPlus,le produit ne fonctionne déjà plus.,Le produit ne fonctionne déjà plus.,produit ne fonctionner déjà plus,negatif,1,fr
+AV0257,2026-08-12,sav,SmartPhone X,très déçu par ce produit. avis,Très déçu par ce produit. avis,très déçu produit avis,negatif,2,fr
+AV0259,2026-02-04,web,SmartWatch Pro,très satisfait de mon achat 👍,Très satisfait de mon achat 👍,très satisfait achat 👍,positif,4,fr
+AV0260,2026-06-11,mobile,SmartPhone Y,excellent rapport qualité-prix.,Excellent rapport qualité-prix.,excellent rapport qualité-prix,positif,5,fr
+AV0266,2026-07-06,sav,SmartPhone X,le produit ne fonctionne déjà plus.,LE PRODUIT NE FONCTIONNE DÉJÀ PLUS.,produit ne fonctionner déjà plus,negatif,2,fr
+AV0268,2026-06-04,sav,SmartPhone Y,"très bonne expérience, simple et efficace.","Très bonne expérience, simple et efficace.",très bon expérience simple efficace,positif,5,fr
+AV0270,2026-06-21,sav,SmartWatch Pro,très déçu par ce produit.,TRÈS DÉÇU PAR CE PRODUIT.,très déçu produit,negatif,2,fr
+AV0280,2026-03-02,sav,SmartPhone X,"je recommande vivement, tout fonctionne parfaitement. !","Je recommande vivement, tout fonctionne parfaitement. !",recommander vivement tout fonctionner parfaitement !,positif,4,fr
+AV0283,2026-04-30,réseaux_sociaux,SmartWatch Pro,"très bon produit, la qualité est au rendez-vous.","Très bon produit, la qualité est au rendez-vous.",très bon produit qualité rendez-vous,positif,5,fr
+AV0289,2026-01-21,web,Ordinateur NovaBook,très déçu par ce produit.,Très déçu par ce produit.,très déçu produit,negatif,2,fr
+AV0292,2026-01-19,web,SmartPhone Y,"très bonne expérience, simple et efficace.","Très bonne expérience, simple et efficace.",très bon expérience simple efficace,positif,5,fr
+AV0295,2026-02-01,email,Écouteurs AirSound,"je recommande vivement, tout fonctionne parfaitement.","Je recommande vivement, tout fonctionne parfaitement.",recommander vivement tout fonctionner parfaitement,positif,5,fr
+AV0298,2026-05-08,web,SmartPhone X,qualité décevante pour ce prix. 😊,Qualité décevante pour ce prix. 😊,qualité décevant prix 😊,negatif,2,fr
+AV0300,2026-03-15,réseaux_sociaux,SmartPhone X,excellent rapport qualité-prix.,Excellent rapport qualité-prix.,excellent rapport qualité-prix,positif,5,fr
+AV0303,2026-07-15,réseaux_sociaux,SmartWatch Pro,"produit parfait, rien à signaler.","Produit parfait, rien à signaler.",produit parfait rien signaler,positif,5,fr
+AV0305,2026-07-13,mobile,SmartPhone Y,"produit parfait, rien à signaler.","Produit parfait, rien à signaler.",produit parfait rien signaler,positif,5,fr
+AV0307,2026-02-08,réseaux_sociaux,Tablette TabPlus,"je viens de recevoir le produit, à voir dans le temps.","Je viens de recevoir le produit, à voir dans le temps.",venir recevoir produit voir temps,neutre,3,fr
+AV0310,2026-07-23,web,Tablette TabPlus,service client réactif et commande reçue rapidement. 😊,Service client réactif et commande reçue rapidement. 😊,service client réactif commande reçu rapidement 😊,positif,4,fr
+AV0312,2026-01-09,réseaux_sociaux,Ordinateur NovaBook,la livraison s'est déroulée normalement.,La livraison s'est déroulée normalement.,livraison dérouler normalement,neutre,3,fr
+AV0314,2026-08-12,web,Ordinateur NovaBook,"je viens de recevoir le produit, à voir dans le temps.","Je viens de recevoir le produit, à voir dans le temps.",venir recevoir produit voir temps,neutre,3,fr
+AV0319,2026-03-31,réseaux_sociaux,Ordinateur NovaBook,la batterie tient vraiment bien et l'écran est superbe.,La batterie tient vraiment bien et l'écran est superbe.,batterie tenir vraiment bien écran superbe,positif,5,fr
+AV0322,2026-02-24,mobile,Tablette TabPlus,le produit ne fonctionne déjà plus.,Le produit ne fonctionne déjà plus.,produit ne fonctionner déjà plus,negatif,2,fr
+AV0330,2026-06-14,réseaux_sociaux,Tablette TabPlus,"très bonne expérience, simple et efficace.","Très bonne expérience, simple et efficace.",très bon expérience simple efficace,positif,5,fr
+AV0331,2026-03-11,mobile,SmartPhone X,"produit parfait, rien à signaler.","Produit parfait, rien à signaler.",produit parfait rien signaler,positif,5,fr
+AV0333,2026-07-31,sav,Tablette TabPlus,produit excellent ! 😍😍😍,Produit excellent ! 😍😍😍,produit excellent ! 😍😍😍,positif,5,fr
+AV0336,2026-06-17,email,Ordinateur NovaBook,très déçu par ce produit. 😊,Très déçu par ce produit. 😊,très déçu produit 😊,negatif,2,fr
+AV0341,2026-05-16,email,SmartPhone X,"je viens de recevoir le produit, à voir dans le temps.","Je viens de recevoir le produit, à voir dans le temps.",venir recevoir produit voir temps,neutre,3,fr
+AV0344,2026-01-24,réseaux_sociaux,Écouteurs AirSound,très satisfait de mon achat 👍,Très satisfait de mon achat 👍,très satisfait achat 👍,positif,5,fr
+AV0345,2026-04-17,sav,Tablette TabPlus,la livraison s'est déroulée normalement.,La livraison s'est déroulée normalement.,livraison dérouler normalement,neutre,3,fr
+AV0348,2026-01-09,email,Écouteurs AirSound,"très bon produit, la qualité est au rendez-vous.","Très bon produit, la qualité est au rendez-vous.",très bon produit qualité rendez-vous,positif,4,fr
+AV0353,2026-07-30,mobile,SmartPhone Y,"je viens de recevoir le produit, à voir dans le temps. avis","Je viens de recevoir le produit, à voir dans le temps. avis",venir recevoir produit voir temps avis,neutre,3,fr
+AV0364,2026-05-23,réseaux_sociaux,SmartPhone Y,le service client n'a pas répondu à ma demande. avis,Le service client n'a pas répondu à ma demande. avis,service client pas répondre demande avis,negatif,2,fr
+AV0367,2026-02-18,réseaux_sociaux,Ordinateur NovaBook,le produit correspond globalement à la description.,LE PRODUIT CORRESPOND GLOBALEMENT À LA DESCRIPTION.,produit correspondre globalement description,neutre,4,fr
+AV0371,2026-05-17,email,SmartWatch Pro,service client réactif et commande reçue rapidement.,Service client réactif et commande reçue rapidement.,service client réactif commande reçu rapidement,positif,5,fr
+AV0373,2026-01-12,réseaux_sociaux,SmartPhone Y,"mauvaise expérience, je ne recommande pas. avis","Mauvaise expérience, je ne recommande pas. avis",mauvais expérience ne recommander pas avis,negatif,2,fr
+AV0377,2026-04-28,mobile,Ordinateur NovaBook,la qualité est correcte sans être exceptionnelle.,La qualité est correcte sans être exceptionnelle.,qualité correct sans exceptionnel,neutre,3,fr
+AV0381,2026-06-18,sav,SmartPhone X,très satisfait de mon achat 👍,Très satisfait de mon achat 👍,très satisfait achat 👍,positif,4,fr
+AV0383,2026-01-28,web,Tablette TabPlus,le service client n'a pas répondu à ma demande. !,Le service client n'a pas répondu à ma demande. !,service client pas répondre demande !,negatif,1,fr
+AV0387,2026-01-15,web,Ordinateur NovaBook,"produit parfait, rien à signaler.","Produit parfait, rien à signaler.",produit parfait rien signaler,positif,5,fr
+AV0389,2026-03-11,web,SmartPhone X,la livraison a été très longue.,La livraison a été très longue.,livraison très long,negatif,1,fr
+AV0391,2026-08-26,web,SmartWatch Pro,"produit reçu endommagé, je suis mécontent. avis","Produit reçu endommagé, je suis mécontent. avis",produit recevoir endommagé mécontent avis,negatif,2,fr
+AV0400,2026-05-23,réseaux_sociaux,Tablette TabPlus,service client réactif et commande reçue rapidement.,Service client réactif et commande reçue rapidement.,service client réactif commande reçu rapidement,positif,5,fr
+AV0406,2026-07-04,sav,Tablette TabPlus,produit correct pour son prix.,Produit correct pour son prix.,produit correct prix,neutre,3,fr
+AV0408,2026-03-27,sav,Ordinateur NovaBook,la batterie tient vraiment bien et l'écran est superbe.,La batterie tient vraiment bien et l'écran est superbe.,batterie tenir vraiment bien écran superbe,positif,5,fr
+AV0409,2026-06-04,mobile,Écouteurs AirSound,le produit ne fonctionne déjà plus.,Le produit ne fonctionne déjà plus.,produit ne fonctionner déjà plus,negatif,1,fr
+AV0413,2026-07-24,email,Ordinateur NovaBook,la livraison a été très longue.,La livraison a été très longue.,livraison très long,negatif,2,fr
+AV0415,2026-01-19,sav,Tablette TabPlus,service client réactif et commande reçue rapidement. avis,Service client réactif et commande reçue rapidement. avis,service client réactif commande reçu rapidement avis,positif,5,fr
+AV0423,2026-03-31,sav,SmartPhone X,"produit parfait, rien à signaler.","Produit parfait, rien à signaler.",produit parfait rien signaler,positif,5,fr
+AV0427,2026-06-13,sav,Écouteurs AirSound,la livraison s'est déroulée normalement. !,La livraison s'est déroulée normalement. !,livraison dérouler normalement !,neutre,4,fr
+AV0429,2026-07-24,réseaux_sociaux,SmartPhone Y,"très bon produit, la qualité est au rendez-vous.","TRÈS BON PRODUIT, LA QUALITÉ EST AU RENDEZ-VOUS.",très bon produit qualité rendez-vous,positif,5,fr
+AV0435,2026-06-12,réseaux_sociaux,Ordinateur NovaBook,livraison rapide et produit conforme à mes attentes.,Livraison rapide et produit conforme à mes attentes.,livraison rapide produit conforme attente,positif,5,fr
+AV0436,2026-03-15,mobile,SmartPhone Y,"produit reçu endommagé, je suis mécontent.","Produit reçu endommagé, je suis mécontent.",produit recevoir endommagé mécontent,negatif,1,fr
+AV0439,2026-05-06,mobile,SmartPhone X,la qualité est correcte sans être exceptionnelle.,La qualité est correcte sans être exceptionnelle.,qualité correct sans exceptionnel,neutre,3,fr
+AV0441,2026-05-21,réseaux_sociaux,SmartPhone X,très satisfait de mon achat 👍,Très satisfait de mon achat 👍,très satisfait achat 👍,positif,5,fr
+AV0444,2026-03-31,web,Écouteurs AirSound,ce produit est vraiment excellent,CE PRODUIT EST VRAIMENT EXCELLENT,produit vraiment excellent,negatif,1,fr
+AV0453,2026-03-25,réseaux_sociaux,SmartPhone X,qualité décevante pour ce prix.,Qualité décevante pour ce prix.,qualité décevant prix,negatif,2,fr
+AV0454,2026-06-12,email,SmartPhone X,la batterie se décharge beaucoup trop vite.,La batterie se décharge beaucoup trop vite.,batterie décharge beaucoup trop vite,negatif,2,fr
+AV0455,2026-07-31,mobile,Écouteurs AirSound,la livraison s'est déroulée normalement. avis,La livraison s'est déroulée normalement. avis,livraison dérouler normalement avis,neutre,3,fr
+AV0458,2026-01-01,sav,SmartPhone Y,excellent rapport qualité-prix.,Excellent rapport qualité-prix.,excellent rapport qualité-prix,positif,5,fr
+AV0464,2026-01-19,mobile,Écouteurs AirSound,"produit reçu endommagé, je suis mécontent.","Produit reçu endommagé, je suis mécontent.",produit recevoir endommagé mécontent,negatif,2,fr
+AV0468,2026-08-09,mobile,SmartPhone X,"je viens de recevoir le produit, à voir dans le temps.","Je viens de recevoir le produit, à voir dans le temps.",venir recevoir produit voir temps,neutre,3,fr
+AV0469,2026-03-31,sav,SmartWatch Pro,la batterie se décharge beaucoup trop vite. avis,La batterie se décharge beaucoup trop vite. avis,batterie décharge beaucoup trop vite avis,negatif,1,fr
+AV0482,2026-03-30,réseaux_sociaux,Tablette TabPlus,livraison rapide et produit conforme à mes attentes.,Livraison rapide et produit conforme à mes attentes.,livraison rapide produit conforme attente,positif,4,fr
+AV0485,2026-03-09,réseaux_sociaux,Ordinateur NovaBook,"je viens de recevoir le produit, à voir dans le temps.","JE VIENS DE RECEVOIR LE PRODUIT, À VOIR DANS LE TEMPS.",venir recevoir produit voir temps,neutre,3,fr
+AV0487,2026-08-17,réseaux_sociaux,Ordinateur NovaBook,"très bonne expérience, simple et efficace.","TRÈS BONNE EXPÉRIENCE, SIMPLE ET EFFICACE.",très bon expérience simple efficace,positif,5,fr
+AV0490,2026-03-24,mobile,Écouteurs AirSound,le service client n'a pas répondu à ma demande.,Le service client n'a pas répondu à ma demande.,service client pas répondre demande,negatif,1,fr
+AV0496,2026-01-02,sav,SmartPhone X,la livraison a été très longue. !,La livraison a été très longue. !,livraison très long !,negatif,1,fr
+AV0508,2026-08-07,sav,Tablette TabPlus,le produit correspond globalement à la description. avis,Le produit correspond globalement à la description. avis,produit correspondre globalement description avis,neutre,3,fr
+AV0509,2026-01-27,mobile,SmartPhone X,le produit correspond globalement à la description.,Le produit correspond globalement à la description.,produit correspondre globalement description,neutre,3,fr
+AV0516,2026-04-16,réseaux_sociaux,Écouteurs AirSound,"très bonne expérience, simple et efficace.","Très bonne expérience, simple et efficace.",très bon expérience simple efficace,positif,5,fr
+AV0518,2026-07-23,web,Écouteurs AirSound,la livraison a été trèèès longue.,La livraison a été trèèès longue.,livraison trèèès long,negatif,2,fr
+AV0533,2026-06-04,email,Tablette TabPlus,très déçu par ce produit. !,Très déçu par ce produit. !,très déçu produit !,negatif,2,fr
+AV0537,2026-07-07,sav,SmartPhone Y,l'utilisation est assez simple.,L'utilisation est assez simple.,utilisation assez simple,neutre,3,fr
+AV0538,2026-05-20,sav,SmartPhone X,le service client n'a pas répondu à ma demande.,Le service client n'a pas répondu à ma demande.,service client pas répondre demande,negatif,2,fr
+AV0542,2026-06-30,web,Écouteurs AirSound,"mauvaise expérience, je ne recommande pas.","Mauvaise expérience, je ne recommande pas.",mauvais expérience ne recommander pas,negatif,1,fr
+AV0550,2026-01-12,email,Écouteurs AirSound,"produit reçu endommagé, je suis mécontent.","Produit reçu endommagé, je suis mécontent.",produit recevoir endommagé mécontent,negatif,2,fr
+AV0553,2026-05-27,mobile,Écouteurs AirSound,"je viens de recevoir le produit, à voir dans le temps.","Je viens de recevoir le produit, à voir dans le temps.",venir recevoir produit voir temps,neutre,3,fr
+AV0555,2026-07-13,sav,SmartPhone Y,pas bon,Pas bon,pas bon,neutre,4,fr
+AV0559,2026-08-23,web,Ordinateur NovaBook,"produit parfait, rien à signaler.","Produit parfait, rien à signaler.",produit parfait rien signaler,positif,5,fr
+AV0573,2026-02-15,sav,Tablette TabPlus,excellent rapport qualité-prix.,Excellent rapport qualité-prix.,excellent rapport qualité-prix,positif,5,fr
+AV0582,2026-03-08,email,SmartPhone Y,"mauvaise expérience, je ne recommande pas. 😊","Mauvaise expérience, je ne recommande pas. 😊",mauvais expérience ne recommander pas 😊,negatif,2,fr
+AV0593,2026-02-06,email,Ordinateur NovaBook,le service client n'a pas répondu à ma demande.,Le service client n'a pas répondu à ma demande.,service client pas répondre demande,negatif,2,fr
+AV0602,2026-04-02,mobile,SmartPhone Y,la batterie tient vraiment bien et l'écran est superbe.,La batterie tient vraiment bien et l'écran est superbe.,batterie tenir vraiment bien écran superbe,positif,5,fr
+AV0604,2026-02-01,email,Ordinateur NovaBook,"je viens de recevoir le produit, à voir dans le temps. !","Je viens de recevoir le produit, à voir dans le temps. !",venir recevoir produit voir temps !,neutre,4,fr
+AV0613,2026-02-08,web,Tablette TabPlus,"je viens de recevoir le produit, à voir dans le temps.","Je viens de recevoir le produit, à voir dans le temps.",venir recevoir produit voir temps,neutre,3,fr
+AV0616,2026-01-25,web,SmartPhone X,l'utilisation est assez simple.,L'UTILISATION EST ASSEZ SIMPLE.,utilisation assez simple,neutre,3,fr
+AV0621,2026-02-16,réseaux_sociaux,Écouteurs AirSound,très satisfait de mon achat 👍,Très satisfait de mon achat 👍,très satisfait achat 👍,positif,5,fr
+AV0627,2026-08-07,sav,SmartPhone Y,"produit parfait, rien à signaler.","Produit parfait, rien à signaler.",produit parfait rien signaler,positif,5,fr
+AV0630,2026-04-25,email,SmartPhone X,le produit correspond globalement à la description.,Le produit correspond globalement à la description.,produit correspondre globalement description,neutre,3,fr
+AV0634,2026-07-03,email,Ordinateur NovaBook,"je viens de recevoir le produit, à voir dans le temps.","Je viens de recevoir le produit, à voir dans le temps.",venir recevoir produit voir temps,neutre,3,fr
+AV0638,2026-07-31,mobile,Ordinateur NovaBook,"je recommande vivement, tout fonctionne parfaitement.","Je recommande vivement, tout fonctionne parfaitement.",recommander vivement tout fonctionner parfaitement,positif,5,fr
+AV0640,2026-01-02,réseaux_sociaux,Ordinateur NovaBook,la livraison s'est déroulée normalement.,La livraison s'est déroulée normalement.,livraison dérouler normalement,neutre,4,fr
+AV0648,2026-05-30,réseaux_sociaux,Ordinateur NovaBook,"produit parfait, rien à signaler.","Produit parfait, rien à signaler.",produit parfait rien signaler,positif,5,fr
+AV0655,2026-08-01,mobile,Ordinateur NovaBook,"je recommande vivement, tout fonctionne parfaitement.","Je recommande vivement, tout fonctionne parfaitement.",recommander vivement tout fonctionner parfaitement,positif,5,fr
+AV0657,2026-02-15,web,SmartPhone Y,produit correct pour son prix.,Produit correct pour son prix.,produit correct prix,neutre,3,fr
+AV0666,2026-04-08,web,Écouteurs AirSound,"le produit est bien, mais la livraison a été longue. le produit est bien, mais la livraison a été longue. le produit est bien, mais la livraison a été longue. le produit est bien, mais la livraison a été longue. le produit est bien, mais la livraison a été longue. le produit est bien, mais la livraison a été longue. le produit est bien, mais la livraison a été longue. le produit est bien, mais la livraison a été longue. le produit est bien, mais la livraison a été longue. le produit est bien, mais la livraison a été longue. le produit est bien, mais la livraison a été longue. le produit est bien, mais la livraison a été longue.","Le produit est bien, mais la livraison a été longue. Le produit est bien, mais la livraison a été longue. Le produit est bien, mais la livraison a été longue. Le produit est bien, mais la livraison a été longue. Le produit est bien, mais la livraison a été longue. Le produit est bien, mais la livraison a été longue. Le produit est bien, mais la livraison a été longue. Le produit est bien, mais la livraison a été longue. Le produit est bien, mais la livraison a été longue. Le produit est bien, mais la livraison a été longue. Le produit est bien, mais la livraison a été longue. Le produit est bien, mais la livraison a été longue.",produit bien mais livraison long produit bien mais livraison long produit bien mais livraison long produit bien mais livraison long produit bien mais livraison long produit bien mais livraison long produit bien mais livraison long produit bien mais livraison long produit bien mais livraison long produit bien mais livraison long produit bien mais livraison long produit bien mais livraison long,positif,5,fr
+AV0677,2026-04-08,sav,Ordinateur NovaBook,"très bonne expérience, simple et efficace.","Très bonne expérience, simple et efficace.",très bon expérience simple efficace,positif,4,fr
+AV0686,2026-04-26,email,Tablette TabPlus,la batterie tient vraiment bien et l'écran est superbe.,La batterie tient vraiment bien et l'écran est superbe.,batterie tenir vraiment bien écran superbe,positif,5,fr
+AV0690,2026-04-25,email,SmartWatch Pro,l'utilisation est assez simple.,L'utilisation est assez simple.,utilisation assez simple,neutre,3,fr
+AV0717,2026-06-18,mobile,Tablette TabPlus,"très bon produit, la qualité est au rendez-vous.","Très bon produit, la qualité est au rendez-vous.",très bon produit qualité rendez-vous,positif,4,fr
+AV0719,2026-07-22,sav,SmartWatch Pro,la livraison s'est déroulée normalement.,La livraison s'est déroulée normalement.,livraison dérouler normalement,neutre,3,fr
+AV0732,2026-01-03,mobile,Ordinateur NovaBook,qualité décevante pour ce prix.,Qualité décevante pour ce prix.,qualité décevant prix,negatif,1,fr
+AV0741,2026-07-17,mobile,SmartWatch Pro,service client réactif et commande reçue rapidement.,Service client réactif et commande reçue rapidement.,service client réactif commande reçu rapidement,positif,5,fr
+AV0760,2026-02-04,réseaux_sociaux,Tablette TabPlus,l'utilisation est assez simple.,L'utilisation est assez simple.,utilisation assez simple,neutre,3,fr
+AV0761,2026-05-24,réseaux_sociaux,SmartPhone X,produit correct pour son prix. 😊,Produit correct pour son prix. 😊,produit correct prix 😊,neutre,3,fr
+AV0775,2026-01-08,web,Ordinateur NovaBook,"produit parfait, rien à signaler. !","Produit parfait, rien à signaler. !",produit parfait rien signaler !,positif,5,fr
+AV0776,2026-08-11,réseaux_sociaux,SmartWatch Pro,excellent rapport qualité-prix.,Excellent rapport qualité-prix.,excellent rapport qualité-prix,positif,5,fr
+AV0777,2026-06-01,réseaux_sociaux,Écouteurs AirSound,produit correct pour son prix.,Produit correct pour son prix.,produit correct prix,positif,5,fr
+AV0781,2026-03-18,web,Écouteurs AirSound,excellent rapport qualité-prix.,Excellent rapport qualité-prix.,excellent rapport qualité-prix,positif,4,fr
+AV0787,2026-02-18,email,SmartPhone X,"très bonne expérience, simple et efficace.","Très bonne expérience, simple et efficace.",très bon expérience simple efficace,positif,5,fr
+AV0796,2026-07-10,réseaux_sociaux,Tablette TabPlus,"produit reçu endommagé, je suis mécontent.","Produit reçu endommagé, je suis mécontent.",produit recevoir endommagé mécontent,negatif,2,fr
+AV0804,2026-06-30,sav,Tablette TabPlus,le produit correspond globalement à la description.,Le produit correspond globalement à la description.,produit correspondre globalement description,neutre,3,fr
+AV0809,2026-07-04,web,Ordinateur NovaBook,la livraison a été très longue.,La livraison a été très longue.,livraison très long,negatif,2,fr
+AV0822,2026-08-27,email,SmartWatch Pro,"produit parfait, rien à signaler.","Produit parfait, rien à signaler.",produit parfait rien signaler,positif,5,fr
+AV0825,2026-04-25,sav,SmartPhone X,"mauvaise expérience, je ne recommande pas.","Mauvaise expérience, je ne recommande pas.",mauvais expérience ne recommander pas,negatif,2,fr
+AV0831,2026-07-31,réseaux_sociaux,SmartPhone X,livraison rapide et produit conforme à mes attentes.,Livraison rapide et produit conforme à mes attentes.,livraison rapide produit conforme attente,positif,5,fr
+AV0839,2026-05-24,mobile,Écouteurs AirSound,livraison rapide et produit conforme à mes attentes.,Livraison rapide et produit conforme à mes attentes.,livraison rapide produit conforme attente,positif,5,fr
+AV0843,2026-06-09,mobile,Écouteurs AirSound,très satisfait de mon achat 👍,Très satisfait de mon achat 👍,très satisfait achat 👍,positif,5,fr
+AV0846,2026-05-01,web,SmartWatch Pro,"très bonne expérience, simple et efficace.","Très bonne expérience, simple et efficace.",très bon expérience simple efficace,positif,4,fr
+AV0853,2026-02-20,réseaux_sociaux,Écouteurs AirSound,la batterie se décharge beaucoup trop vite. !,La batterie se décharge beaucoup trop vite. !,batterie décharge beaucoup trop vite !,negatif,2,fr
+AV0868,2026-07-02,email,SmartPhone Y,"je viens de recevoir le produit, à voir dans le temps.","Je viens de recevoir le produit, à voir dans le temps.",venir recevoir produit voir temps,neutre,3,fr
+AV0871,2026-06-26,email,Écouteurs AirSound,très satisfait de mon achat 👍,Très satisfait de mon achat 👍,très satisfait achat 👍,positif,5,fr
+AV0877,2026-08-01,sav,SmartPhone X,"produit reçu endommagé, je suis mécontent.","Produit reçu endommagé, je suis mécontent.",produit recevoir endommagé mécontent,negatif,2,fr
+AV0879,2026-06-01,mobile,Écouteurs AirSound,livraison rapide et produit conforme à mes attentes.,Livraison rapide et produit conforme à mes attentes.,livraison rapide produit conforme attente,positif,4,fr
+AV0887,2026-04-27,sav,Écouteurs AirSound,la livraison a été très longue.,La livraison a été très longue.,livraison très long,negatif,1,fr
+AV0888,2026-03-13,réseaux_sociaux,Ordinateur NovaBook,très mauvais produit 😡😡 déception,très mauvais produit 😡😡 déception,très mauvais produit 😡😡 déception,positif,4,fr
+AV0894,2026-02-04,web,Ordinateur NovaBook,produit correct pour son prix.,Produit correct pour son prix.,produit correct prix,neutre,3,fr
+AV0897,2026-05-14,sav,Écouteurs AirSound,livraison rapide et produit conforme à mes attentes.,Livraison rapide et produit conforme à mes attentes.,livraison rapide produit conforme attente,positif,5,fr
+AV0909,2026-03-11,sav,SmartPhone X,"mauvaise expérience, je ne recommande pas.","Mauvaise expérience, je ne recommande pas.",mauvais expérience ne recommander pas,negatif,2,fr
+AV0910,2026-08-01,email,SmartPhone Y,la batterie tient vraiment bien et l'écran est superbe.,La batterie tient vraiment bien et l'écran est superbe.,batterie tenir vraiment bien écran superbe,positif,5,fr
+AV0912,2026-08-20,réseaux_sociaux,SmartPhone Y,très déçu par ce produit.,Très déçu par ce produit.,très déçu produit,negatif,2,fr
+AV0916,2026-08-16,web,SmartPhone X,produit correct pour son prix.,Produit correct pour son prix.,produit correct prix,neutre,3,fr
+AV0922,2026-01-13,mobile,SmartPhone X,"produit parfait, rien à signaler.","Produit parfait, rien à signaler.",produit parfait rien signaler,positif,5,fr
+AV0926,2026-03-21,sav,Écouteurs AirSound,"très bon produit, la qualité est au rendez-vous.","Très bon produit, la qualité est au rendez-vous.",très bon produit qualité rendez-vous,positif,5,fr
+AV0928,2026-05-05,web,SmartPhone X,la batterie tient vraiment bien et l'écran est superbe.,La batterie tient vraiment bien et l'écran est superbe.,batterie tenir vraiment bien écran superbe,positif,5,fr
+AV0929,2026-08-05,mobile,SmartWatch Pro,excellent rapport qualité-prix.,Excellent rapport qualité-prix.,excellent rapport qualité-prix,positif,5,fr
+AV0935,2026-01-30,réseaux_sociaux,Tablette TabPlus,la qualité est correcte sans être exceptionnelle.,La qualité est correcte sans être exceptionnelle.,qualité correct sans exceptionnel,neutre,3,fr
+AV0937,2026-06-15,web,SmartPhone X,la batterie tient vraiment bien et l'écran est superbe.,La batterie tient vraiment bien et l'écran est superbe.,batterie tenir vraiment bien écran superbe,positif,5,fr
+AV0939,2026-02-20,mobile,Ordinateur NovaBook,service client réactif et commande reçue rapidement.,Service client réactif et commande reçue rapidement.,service client réactif commande reçu rapidement,positif,5,fr
+AV0946,2026-06-18,sav,SmartPhone Y,livraison rapide et produit conforme à mes attentes.,Livraison rapide et produit conforme à mes attentes.,livraison rapide produit conforme attente,positif,4,fr
+AV0950,2026-06-30,email,SmartPhone X,"produit excellent, je suis très satisfait.","Produit excellent, je suis très satisfait.",produit excellent très satisfait,positif,4,FR
+AV0952,2026-06-11,web,Ordinateur NovaBook,,,,positif,4,fr
+AV0953,2026-08-20,email,Tablette TabPlus,super produit!,super produit!,super produit !,positif,5,fr
+AV0965,2026-03-19,sav,Ordinateur NovaBook,service client réactif et commande reçue rapidement.,Service client réactif et commande reçue rapidement.,service client réactif commande reçu rapidement,positif,5,fr
+AV0970,2026-04-29,mobile,Ordinateur NovaBook,la qualité est correcte sans être exceptionnelle. avis,La qualité est correcte sans être exceptionnelle. avis,qualité correct sans exceptionnel avis,neutre,3,fr
+AV0977,2026-08-25,email,Écouteurs AirSound,la qualité est correcte sans être exceptionnelle.,La qualité est correcte sans être exceptionnelle.,qualité correct sans exceptionnel,neutre,3,fr
+AV0990,2026-06-28,sav,SmartPhone X,la livraison a été très longue. 😊,La livraison a été très longue. 😊,livraison très long 😊,negatif,2,fr
+AV0994,2026-01-15,email,Ordinateur NovaBook,très déçu par ce produit.,Très déçu par ce produit.,très déçu produit,negatif,1,fr
+AV1003,2026-03-04,réseaux_sociaux,SmartPhone X,la livraison s'est déroulée normalement.,La livraison s'est déroulée normalement.,livraison dérouler normalement,neutre,4,fr
+AV1011,2026-02-15,mobile,Ordinateur NovaBook,l'utilisation est assez simple.,L'utilisation est assez simple.,utilisation assez simple,neutre,4,fr
+AV1024,2026-03-13,web,Ordinateur NovaBook,qualité décevante pour ce prix.,Qualité décevante pour ce prix.,qualité décevant prix,negatif,1,fr
+AV1028,2026-05-07,mobile,SmartPhone X,le produit correspond globalement à la description.,Le produit correspond globalement à la description.,produit correspondre globalement description,neutre,4,fr
+AV1030,2026-06-21,email,SmartPhone Y,"produit excellent, je suis très satisfait.","Produit excellent, je suis très satisfait.",produit excellent très satisfait,positif,4,fr
+AV1057,2026-08-18,email,Tablette TabPlus,"très bonne expérience, simple et efficace.","Très bonne expérience, simple et efficace.",très bon expérience simple efficace,positif,5,fr
+AV1058,2026-03-28,web,Ordinateur NovaBook,la qualité est correcte sans être exceptionnelle.,La qualité est correcte sans être exceptionnelle.,qualité correct sans exceptionnel,neutre,4,fr
+AV1065,2026-07-09,sav,Écouteurs AirSound,la livraison a été très longue.,La livraison a été très longue.,livraison très long,negatif,1,fr
+AV1067,2026-08-11,réseaux_sociaux,SmartWatch Pro,"très bonne expérience, simple et efficace.","Très bonne expérience, simple et efficace.",très bon expérience simple efficace,positif,5,fr
+AV1073,2026-01-31,email,Écouteurs AirSound,la livraison a été très longue.,La livraison a été très longue.,livraison très long,negatif,2,fr
+AV1074,2026-05-25,sav,SmartWatch Pro,"mauvaise expérience, je ne recommande pas.","Mauvaise expérience, je ne recommande pas.",mauvais expérience ne recommander pas,negatif,1,fr
+AV1077,2026-01-14,email,SmartWatch Pro,"mauvaise expérience, je ne recommande pas. !","Mauvaise expérience, je ne recommande pas. !",mauvais expérience ne recommander pas !,negatif,1,fr
+AV1080,2026-07-31,email,SmartWatch Pro,produit correct pour son prix.,Produit correct pour son prix.,produit correct prix,neutre,4,fr
+AV1085,2026-08-23,web,SmartPhone X,service client réactif et commande reçue rapidement.,Service client réactif et commande reçue rapidement.,service client réactif commande reçu rapidement,positif,4,fr
+AV1101,2026-01-30,sav,SmartWatch Pro,produit correct pour son prix.,Produit correct pour son prix.,produit correct prix,neutre,3,fr
+AV1111,2026-06-23,web,SmartPhone Y,"très bon produit, la qualité est au rendez-vous.","Très bon produit, la qualité est au rendez-vous.",très bon produit qualité rendez-vous,positif,4,fr
+AV1113,2026-07-22,sav,SmartPhone Y,"je viens de recevoir le produit, à voir dans le temps.","Je viens de recevoir le produit, à voir dans le temps.",venir recevoir produit voir temps,neutre,4,fr
+AV1116,2026-03-22,sav,Écouteurs AirSound,le service client n'a pas répondu à ma demande.,Le service client n'a pas répondu à ma demande.,service client pas répondre demande,negatif,1,fr
+AV1119,2026-06-18,réseaux_sociaux,Ordinateur NovaBook,la qualité est correcte sans être exceptionnelle.,La qualité est correcte sans être exceptionnelle.,qualité correct sans exceptionnel,neutre,4,fr
+AV1142,2026-05-24,sav,Écouteurs AirSound,excellent rapport qualité-prix.,Excellent rapport qualité-prix.,excellent rapport qualité-prix,positif,5,fr
+AV1152,2026-05-02,email,SmartWatch Pro,la livraison s'est déroulée normalement.,La livraison s'est déroulée normalement.,livraison dérouler normalement,neutre,3,fr
+AV1157,2026-07-08,sav,SmartWatch Pro,excellent rapport qualité-prix.,Excellent rapport qualité-prix.,excellent rapport qualité-prix,positif,4,fr
+AV1166,2026-02-20,email,Ordinateur NovaBook,"très bon produit, la qualité est au rendez-vous.","Très bon produit, la qualité est au rendez-vous.",très bon produit qualité rendez-vous,positif,5,fr
+AV1169,2026-01-31,mobile,Ordinateur NovaBook,la qualité est correcte sans être exceptionnelle.,La qualité est correcte sans être exceptionnelle.,qualité correct sans exceptionnel,neutre,3,fr
+AV1170,2026-04-08,mobile,Écouteurs AirSound,"très bonne expérience, simple et efficace.","Très bonne expérience, simple et efficace.",très bon expérience simple efficace,positif,5,fr
+AV1173,2026-01-22,web,Écouteurs AirSound,la batterie tient vraiment bien et l'écran est superbe.,La batterie tient vraiment bien et l'écran est superbe.,batterie tenir vraiment bien écran superbe,positif,5,fr
+AV1186,2026-01-29,mobile,SmartPhone X,excellent rapport qualité-prix.,Excellent rapport qualité-prix.,excellent rapport qualité-prix,positif,5,fr
+AV1192,2026-06-10,email,Tablette TabPlus,l'utilisation est assez simple.,L'utilisation est assez simple.,utilisation assez simple,neutre,4,fr
+AV1193,2026-03-25,réseaux_sociaux,SmartPhone Y,le produit correspond globalement à la description.,Le produit correspond globalement à la description.,produit correspondre globalement description,neutre,3,fr
